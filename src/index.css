@@ -1,0 +1,5 @@
+*, *::before, *::after {
+  padding: 2;
+  margin: 2;
+  box-sizing: inherit;
+}
